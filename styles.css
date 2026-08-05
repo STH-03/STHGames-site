@@ -1,6 +1,14 @@
 html,
 body {
   background-color: #000;
+  visibility: visible !important;
+}
+
+main,
+.container,
+.row,
+[class^="col-"] {
+  visibility: visible !important;
 }
 
 .card {
