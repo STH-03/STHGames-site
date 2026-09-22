@@ -39,6 +39,12 @@ main,
   border: 2px solid #111;
 }
 
+.support-gif {
+  width: 100px;
+  height: auto;
+  flex-shrink: 0;
+}
+
 .game-title-link {
   font-size: 1.15rem;
   font-weight: 700;
